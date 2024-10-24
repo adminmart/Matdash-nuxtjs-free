@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+@import './variables';
+@import 'vuetify/styles/main.sass';
+@import './layout/container';
+@import './layout/sidebar';
+@import './layout/topbar';
+@import './components/VButtons';
+@import './components/VCard';
+@import './components/VInput';
+@import './components/VField';
+@import './components/VNavigationDrawer';
+@import './components/VShadow';
+@import './components/VTable'; 
+@import 'pages/dashboards';
+@import 'vue3-perfect-scrollbar/dist/vue3-perfect-scrollbar.css';
