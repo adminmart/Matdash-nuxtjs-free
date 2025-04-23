@@ -161,17 +161,17 @@ The **Free Version** of the **MatDash Free Nuxt Js Admin Template** provides a s
       <tr>
          <td>
            <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2024/03/matdash-bootstrap-admin-dashboard.png" alt="materialM-bootstrap-admin-template" style="width:140px;">
+             <img src="https://adminmart.com/wp-content/uploads/2024/03/matdash-bootstrap-admin-dashboard.png" alt="materialM-bootstrap-admin-template" >
            </a>
          </td>
          <td>
            <a href="https://adminmart.com/product/matdash-next-js-admin-dashboard-template/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2025/01/matdash-nextjs-pro-preview.jpg" alt="materialM-next-admin-template" style="width:150px;">
+             <img src="https://adminmart.com/wp-content/uploads/2025/01/matdash-nextjs-pro-preview.jpg" alt="materialM-next-admin-template" >
            </a>
          </td> 
          <td>
            <a href="https://adminmart.com/product/matdash-material-angular-dashboard-template/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2024/08/matdash-preview-angular-img.jpg" alt="materialM-next-admin-template" style="width:150px;">
+             <img src="https://adminmart.com/wp-content/uploads/2024/08/matdash-preview-angular-img.jpg" alt="materialM-next-admin-template" >
            </a>
          </td> 
       </tr>
@@ -192,12 +192,12 @@ The **Free Version** of the **MatDash Free Nuxt Js Admin Template** provides a s
       <tr>
          <td>
            <a href="https://adminmart.com/product/matdash-tailwind-react-admin-template/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2025/02/MatDash-Reactjs-tailwind_new.jpg" alt="materialM-react-admin-template" style="max-width:140px;">
+             <img src="https://adminmart.com/wp-content/uploads/2025/02/MatDash-Reactjs-tailwind_new.jpg" alt="materialM-react-admin-template" >
            </a>
          </td>
          <td>
            <a href="https://adminmart.com/product/matdash-vuejs-admin-dashboard/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2024/05/matdash-vuetify-vuejs-admin-dashboard.png" alt="materialM-vue-admin-template" style="max-width:150px;">
+             <img src="https://adminmart.com/wp-content/uploads/2024/05/matdash-vuetify-vuejs-admin-dashboard.png" alt="materialM-vue-admin-template" >
            </a>
          </td>
       </tr>
