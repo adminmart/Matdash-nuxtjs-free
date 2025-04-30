@@ -1,10 +1,19 @@
 <script setup lang="ts">
-import { ref, shallowRef } from "vue";
+import { onMounted, ref, shallowRef, watch } from 'vue';
+import { useDisplay } from "vuetify";
 import sidebarItems from "@/components/layout/full/vertical-sidebar/sidebarItem";
 import { Menu2Icon } from "vue-tabler-icons";
 
 const sidebarMenu = shallowRef(sidebarItems);
+
+const { mdAndDown } = useDisplay();
 const sDrawer = ref(true);
+onMounted(() => {
+  sDrawer.value = !mdAndDown.value; // hide on mobile, show on desktop
+});
+watch(mdAndDown, (val) => {
+  sDrawer.value = !val;
+});
 </script>
 
 <template>

@@ -282,6 +282,11 @@ const sidebarItem: menu[] = [
 
   { header: "Pages" },
   {
+    title: "Sample Page",
+    icon: "planet-3-line-duotone",
+    to: "/sample-page",
+  },
+  {
     title: "Pages",
     icon: "bill-check-outline",
     to: "/pages",
@@ -668,6 +673,26 @@ const sidebarItem: menu[] = [
   },
   { header: "Ui" },
   {
+    title: "Alert",
+    icon: "volume-small-broken",
+    to: "/ui-components/alerts",
+  },
+  {
+    title: "Button",
+    icon: "tag-horizontal-outline",
+    to: "/ui-components/buttons",
+  },
+  {
+    title: "Cards",
+    icon: "cardholder-linear",
+    to: "/ui-components/cards",
+  },
+  {
+    title: "Tables",
+    icon: "suspension-outline",
+    to: "/ui-components/tables",
+  },
+  {
     title: "Ui Components",
     icon: "text-underline-bold",
     to: "/ui",
@@ -852,11 +877,6 @@ const sidebarItem: menu[] = [
     to: "https://matdash-nuxt-main.netlify.app/icons/solar",
     chip: "Pro",
     external: true,
-  },
-  {
-    title: "Sample Page",
-    icon: "planet-3-line-duotone",
-    to: "/sample-page",
   },
 ];
 

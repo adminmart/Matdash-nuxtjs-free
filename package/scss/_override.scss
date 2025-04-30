@@ -15,7 +15,15 @@ html {
         color: $white !important;
     }
 }
+
 .border,
 .v-divider {
     border-color: rgba(var(--v-border-color), 1) !important;
+}
+
+.lh-0{
+    line-height: 0;
+}
+.lh-normal{
+    line-height: normal;
 }
